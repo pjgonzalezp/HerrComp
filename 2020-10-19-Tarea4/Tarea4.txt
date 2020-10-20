@@ -1,0 +1,14 @@
+Integrantes:
+-Daniela QUiroga
+-Jose Hernandez
+-Paula Gonzalez
+
+Tarea 4. Herramientas computacionales
+
+
+
+Adaptando el código encontrado en la página del curso:
+https://iluvatar.bitbucket.io/HerrComp/#orga267ada
+se calcularon los valores y vectores propios y se midio el escalamiento del tiempo de cómputo de valores propios en función del tamaño N (realmente NxN) de la matriz. 
+
+Entregable: Un screenshot que muestre el código usado y la figura de gnuplot que muestre el escalamiento, comparando sin y con optimización -O3, y el fit con el valor del exponente de la ley de potencias. 
